@@ -3,7 +3,7 @@
 
 ---
 # Contact Information
-Our course Slack channel: dsi-sg-17
+Our course Slack channel: dsi-sg-19
 
 ### Instructor: Conor Smyth
 * Email: conor.smyth@generalassemb.ly  </br>
