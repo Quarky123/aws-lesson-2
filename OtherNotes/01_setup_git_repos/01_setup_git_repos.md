@@ -101,8 +101,25 @@ This folder is now linked to the github repo. Any file changes inside will be tr
 
 Now you can move whatever files you have been working on previously into this folder.
 
+### 3. Adding your credentials into git's configuration
+Before we are able to write anything to github, we need to provide our email and username credentials. This is a process you will only be needing to do once ever.
 
-### 3. Pushing changes from your device to github
+to view what is currently in our config:
+```
+$ git config --global --list
+```
+you might see something like:<br>
+`user.email=your@email.com`<br>
+`user.name=YourGitUserName`
+
+If you do, that means your credentials already exist. Otherwise, we will need to add it with the following lines:
+```
+$ git config --global user.name "YourGitUserName"
+$ git config --global user.email your@email.com
+```
+
+
+### 4. Pushing changes from your device to github
 After changing the files, to send the changes to your github repo, we need 3 steps. I like to think of it as sending a rocket to space. We put all the materials at a staging area, then we decide on the mission name, and finally blast it into space.
 
 1. Add all the files to staging
