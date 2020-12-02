@@ -6,11 +6,11 @@
 Our course Slack channel: dsi-sg-19
 
 ### Instructor: Conor Smyth
-* Email: conor.smyth@generalassemb.ly  </br>
+* Email: conor.smyth@generalassemb.ly </br>
 * Slack: https://ga-students.slack.com/messages/@USM7VR5QF </br>
 
 ### Instructional Assistant: Ivan Tan
-* Email: to be updated  </br>
+* Email: ivan.tan@generalassemb.ly </br>
 * Slack: https://ga-students.slack.com/messages/@U0198DS02UA </br>
 
 ### Instructor Manager: Melanie Wu
