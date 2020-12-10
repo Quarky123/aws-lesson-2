@@ -47,7 +47,7 @@ Before you begin working on this project, please do the following:
 
 ## Submission
 
-**Materials must be submitted by the beginning of class on Sep 18.**
+**Materials must be submitted by the beginning of class on Dec 18.**
 
 Your technical report will be hosted on Github Enterprise. Make sure it includes:
 
