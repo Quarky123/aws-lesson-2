@@ -89,29 +89,31 @@ Our course Slack channel: dsi-sg-19
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [6.01 CART](./6.01-lesson-decision_trees) | [6.03 Random Forests and Extra Trees](./6.03-lesson-random-forests) | [6.05 SVMs](./6.05-lesson-support_vector_machines-svm)  | [6.07 Gradient Descent](./6.07-lesson-gradient_descent-master) | Project 3 Presentations |
 | Afternoon | [6.02 Bootstrapping and Bagging](./6.02-lesson-bagging)  | [6.04 Boosting](./6.04-lesson-boosting) | [6.06 GLMs](./6.06-lesson-generalized_linear_models)  | Project Time | Project 3 Presentations |
-| Labs | [6.01 Supervised Model Comparison Lab](./6_01-lab-supervised_learning_models) |  |  |  | Lab solutions |
+| Labs | [6.01 Supervised Model Comparison Lab](./6_01-lab-supervised_learning_models) |  |  | Lightning Talk Presentation | Lab solutions |
 | Deadlines |  |  |  |  | [Project 3: 15 Jan 2021 (09:30AM) (Friday)] |
 
 
+#### Week 7(rev) - Correlated Data (1) + Deep Learning (1)
 
-#### Week 7 - Unsupervised Learning
-
-|           | Monday  18 Jan      | Tuesday       | Wednesday     | Thursday      | Friday  |
+|           | Monday 18 Jan       | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [7.01 Intro to Clustering: K-Means](./7.01-lesson-intro-to-Clustering-kmeans)  | [7.03 Hierarchical Clustering](./7.03-lesson-clustering-hierarchical_clustering) | [7.05 Recommender Systems I](./7.05-lesson-recommender-systems-i) | [7.07 Introduction to AWS](./7.07-lesson-intro-to-aws) |  |
-| Afternoon | [7.02 DBSCAN Clustering](./7.02-lesson-dbscan) |  [7.04 PCA](./7.04-lesson-pca-intro-pca) | [7.06 Recommender Systems II](./7.06-lesson-recommender-systems-ii) | [7.08 Introduction to APIs and Flask](./7.08-intro-to-apis-and-flask)  <br />  Capstone Lightning Talks | Flexi Time |
-| Labs      |  | [7_01 Clustering Lab](./7_01-lab-battle-of-clusters) | Outcomes Programming | [7_02 PCA Lab](./7_02-lab-principal_component_analysis) | Lab solutions  |  
-| Deadlines |  |  | | [Capstone Check-in 1](https://forms.gle/gBXtjtfnDwjxT8GP6) |  |
-
-
-#### Week 8(rev) - Correlated Data (1) + Deep Learning (1)
-
-|           | Monday 25 Jan       | Tuesday       | Wednesday     | Thursday      | Friday  |
-|-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [8.01 Intro to Correlated Data](./8.01-lesson-intro_to_correlated_data) | [8.03 AR/MA/ARMA](./8.03_AR_MA_ARMA_ARIMA) | [9.01 Introduction to Neural Networks](./9.01-lesson-intro-to-neural-networks) | [8.06 Network Analysis](./8.06-network-analysis) | Project 4 Presentations |
-| Afternoon | [8.02 Intro to Time Series](./8.02-lesson-timeseries) | [8.04 Advanced Time Series Analysis](./8.04-lesson-advanced-time-series) | [9.02 Introduction to Keras](./9.02-lesson-keras) | Project/Lab Time | Project 4 Presentations |
+| Morning   | [8.01 Intro to Correlated Data](./8.01-lesson-intro_to_correlated_data) | [8.03 AR/MA/ARMA](./8.03_AR_MA_ARMA_ARIMA) | [9.01 Introduction to Neural Networks](./9.01-lesson-intro-to-neural-networks) | [8.06 Network Analysis](./8.06-network-analysis) | Flexi Time |
+| Afternoon | [8.02 Intro to Time Series](./8.02-lesson-timeseries) | [8.04 Advanced Time Series Analysis](./8.04-lesson-advanced-time-series) | [9.02 Introduction to Keras](./9.02-lesson-keras) | Project/Lab Time | Flexi Time |
 | Labs      | [8_01 Correlated Data Lab](./8_01-lab-correlated_data) | [8_02 Time Series Lab](./8_02-lab-time_series_arima) | Outcomes Programming |  | Lab solutions |
-| Deadlines |  |  |  | [Capstone Check-in 2](./Capstone%20Project/part_02) | [Project 4: 29 Jan 2021 (9:30AM) (Friday)] |
+| Deadlines |  |  |  | [Capstone Check-in 1](https://forms.gle/gBXtjtfnDwjxT8GP6) |  |
+
+
+#### Week 8(rev) - Unsupervised Learning
+
+|           | Monday  25 Jan      | Tuesday       | Wednesday     | Thursday      | Friday  |
+|-----------|---------------|---------------|---------------|---------------|---------|
+| Morning   | [7.01 Intro to Clustering: K-Means](./7.01-lesson-intro-to-Clustering-kmeans)  | [7.03 Hierarchical Clustering](./7.03-lesson-clustering-hierarchical_clustering) | [7.05 Recommender Systems I](./7.05-lesson-recommender-systems-i) | [7.07 Introduction to AWS](./7.07-lesson-intro-to-aws) | Project 4 Presentations |
+| Afternoon | [7.02 DBSCAN Clustering](./7.02-lesson-dbscan) |  [7.04 PCA](./7.04-lesson-pca-intro-pca) | [7.06 Recommender Systems II](./7.06-lesson-recommender-systems-ii) | [7.08 Introduction to APIs and Flask](./7.08-intro-to-apis-and-flask) | Project 4 Presentations |
+| Labs      |  | [7_01 Clustering Lab](./7_01-lab-battle-of-clusters) | Outcomes Programming | [7_02 PCA Lab](./7_02-lab-principal_component_analysis) | Lab solutions  |  
+| Deadlines |  |  | | [Capstone Check-in 2](./Capstone%20Project/part_02) | [Project 4: 29 Jan 2021 (9:30AM) (Friday)] |
+
+
+
 
 
 #### Week 9(rev) - Deep Learning (2) + Correlated Data (2)
