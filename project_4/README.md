@@ -55,7 +55,7 @@ This project will be executed as a group.  To make your team as effective and ef
 
 ---
 
-**Your project is due at 9:30 AM SGT on Friday, 29th Jan 2021.**
+**Your project is due at 9:00 AM SGT on Friday, 29th Jan 2021.**
 
 ---
 
