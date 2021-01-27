@@ -107,10 +107,10 @@ Our course Slack channel: dsi-sg-19
 
 |           | Monday  25 Jan      | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
-| Morning   | [7.01 Intro to Clustering: K-Means](./7.01-lesson-intro-to-Clustering-kmeans)  | [7.03 Hierarchical Clustering](./7.03-lesson-clustering-hierarchical_clustering) | [7.05 Recommender Systems I](./7.05-lesson-recommender-systems-i) | Project/Lab Time | Project 4 Presentations |
-| Afternoon | [7.02 DBSCAN Clustering](./7.02-lesson-dbscan) |  [7.04 PCA](./7.04-lesson-pca-intro-pca) | [7.06 Recommender Systems II](./7.06-lesson-recommender-systems-ii) | Project/Lab Time | Project 4 Presentations |
+| Morning   | [7.01 Intro to Clustering: K-Means](./7.01-lesson-intro-to-Clustering-kmeans)  | [8.05 Spatial Data Analysis](./8.05-lesson-spatial_data_analysis) [7.03 Hierarchical Clustering](./7.03-lesson-clustering-hierarchical_clustering) | [7.05 Recommender Systems I](./7.05-lesson-recommender-systems-i) | [7.04 PCA](./7.04-lesson-pca-intro-pca) | Project 4 Presentations |
+| Afternoon |  | [7.02 DBSCAN Clustering](./7.02-lesson-dbscan) | [7.06 Recommender Systems II](./7.06-lesson-recommender-systems-ii) | Project/Lab Time | Project 4 Presentations |
 | Labs      |  | [7_01 Clustering Lab](./7_01-lab-battle-of-clusters) | Outcomes Programming | [7_02 PCA Lab](./7_02-lab-principal_component_analysis) | Lab solutions  |  
-| Deadlines |  |  | | [Capstone Check-in 2](./Capstone%20Project/part_02) | [Project 4: 29 Jan 2021 (9:30AM) (Friday)] |
+| Deadlines |  | [Capstone Check-in 2](./Capstone%20Project/part_02) | |  | [Project 4: 29 Jan 2021 (9:30AM) (Friday)] |
 
 
 
@@ -121,7 +121,7 @@ Our course Slack channel: dsi-sg-19
 |           | Monday  1 Feb     | Tuesday       | Wednesday     | Thursday      | Friday  |
 |-----------|---------------|---------------|---------------|---------------|---------|
 | Morning   | [9.03 Deep Learning Regularization](./9.03-lesson-regularizing-optimizing-nn) | [9.04 Convolutional Neural Networks](./9.04-lesson-cnn) | [9.05 Recurrent Neural Networks](./9.05-lesson-rnn) | [7.07 Introduction to AWS](./7.07-lesson-intro-to-aws)  | Project/Lab Time |
-| Afternoon | [8.07 Benford's Law](./8.07-lesson-benfords-law) | [9.06 Tensorflow](./9.06-lesson-tensorflow) | [8.05 Spatial Data Analysis](./8.05-lesson-spatial_data_analysis)  | [7.08 Introduction to APIs and Flask](./7.08-intro-to-apis-and-flask) | Project/Lab Time |
+| Afternoon | [8.07 Benford's Law](./8.07-lesson-benfords-law) | [9.06 Tensorflow](./9.06-lesson-tensorflow) |   | [7.08 Introduction to APIs and Flask](./7.08-intro-to-apis-and-flask) | Project/Lab Time |
 | Labs      | [9_01 Conceptual Neural Networks Lab](./9_01-lab-neural_network_conceptual) |  | Outcomes Programming  <br />  [9_02 Applied Neural Networks Lab](./9_02-lab-neural_network_applied) |  | Lab solutions |
 | Deadlines |  |  |  | [Capstone Check-in 3](./Capstone%20Project/part_03) |  |
 
