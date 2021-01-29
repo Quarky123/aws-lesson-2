@@ -2,7 +2,7 @@
 
 ## Overview
 
-Progress report due 22 October 2020.
+Progress report due 4 Feb 2021.
 
 The finish line is in sight! You should have your data in hand and some models made. This portion of the Capstone contains two parts to help really hone your model and develop mastery over your final project.
 
@@ -12,7 +12,7 @@ The finish line is in sight! You should have your data in hand and some models m
 
 ## Requirements
 
-The actual deliverable for this section is fairly small. You are expected to submit, via [this Google form](https://forms.gle/2pH2WheV4bWWRLt38), a progress report detailing where you are with your Capstone. The format and content is up to you but, at a minimum, we expect the following:
+The actual deliverable for this section is fairly small. You are expected to submit, via [this Google form](https://forms.gle/nzX7LQt8EpscLuc58), a progress report detailing where you are with your Capstone. The format and content is up to you but, at a minimum, we expect the following:
 
 1. Do you have data fully in hand and if not, what blockers are you facing?
 2. Have you done a full EDA on all of your data?
@@ -24,8 +24,8 @@ The actual deliverable for this section is fairly small. You are expected to sub
 
 We will use your progress report as a leaping off point for a deep 1:1 with a member of the instructional staff. The best use of your time is to really flesh out this document so that your remaining time here can be most productive.
 
-Submit this document no later than *15 July 2020 9:30AM*.
+Submit this document no later than *4 Feb 2021 9:30AM*.
 
 ## Necessary Deliverables / Submission
 
-- Your progress report (touching on the points above) submitted no later than *22 Ocotber 2020 9:30AM* on [this form](https://forms.gle/2pH2WheV4bWWRLt38).
+- Your progress report (touching on the points above) submitted no later than *4 Feb 2021 9:30AM* on [this form](https://forms.gle/nzX7LQt8EpscLuc58).
